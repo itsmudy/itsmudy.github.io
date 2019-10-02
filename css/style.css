@@ -134,17 +134,17 @@ strong {
 	margin: 3rem auto !important;
 }
 
-.eva {background: url(../imgs/_eva.png); background-size: cover;}
-.dogmons {background: url(../imgs/_dogmons.png); background-size: cover;}
-.geracaobill {background: url(../imgs/_geracaobill.png); background-size: cover;}
-.kadike {background: url(../imgs/_kadike.png); background-size: cover;}
-.festa {background: url(../imgs/_festa.png); background-size: cover;}
-.juca {background: url(../imgs/_juca.png); background-size: cover;}
-.light {background: url(../imgs/_light.png); background-size: cover;}
-.megapowers {background: url(../imgs/_megapowers.png); background-size: cover;}
-.pec {background: url(../imgs/_pec.png); background-size: cover;}
-.ph {background: url(../imgs/_ph.png); background-size: cover;}
-.plim {background: url(../imgs/_plim.jpg); background-size: cover;}
+.eva {background: url(../imgs/eva.png); background-size: cover;}
+.dogmons {background: url(../imgs/dogmons.png); background-size: cover;}
+.geracaobill {background: url(../imgs/geracaobill.png); background-size: cover;}
+.kadike {background: url(../imgs/kadike.png); background-size: cover;}
+.festa {background: url(../imgs/festa.png); background-size: cover;}
+.juca {background: url(../imgs/juca.png); background-size: cover;}
+.light {background: url(../imgs/light.png); background-size: cover;}
+.megapowers {background: url(../imgs/megapowers.png); background-size: cover;}
+.pec {background: url(../imgs/pec.png); background-size: cover;}
+.ph {background: url(../imgs/ph.png); background-size: cover;}
+.plim {background: url(../imgs/plim.jpg); background-size: cover;}
 
 
 /*========
@@ -230,28 +230,28 @@ EQUIPE
 #time .card-block {visibility: hidden;}
 #time .card:hover .card-block {visibility: visible;}
 
-.thomas {background:url(../imgs/__thomas_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
-.thomas:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__thomas_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+.thomas {background:url(../imgs/thomas_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+.thomas:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/thomas_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
 
-.patricia {background: url(../imgs/__patricia_avatar_vinyl.png) no-repeat center #DFE6E9; background-size: contain;}
-.patricia:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__patricia_avatar_vinyl.png) no-repeat center #DFE6E9; background-size: contain;}
+.patricia {background: url(../imgs/patricia_avatar_vinyl.png) no-repeat center #DFE6E9; background-size: contain;}
+.patricia:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/patricia_avatar_vinyl.png) no-repeat center #DFE6E9; background-size: contain;}
 
-.levi {background: url(../imgs/__levi_avatar_color.png) no-repeat center #DFE6E9; background-size: contain;}
-.levi:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__levi_avatar_color.png) no-repeat center #DFE6E9; background-size: contain;}
+.levi {background: url(../imgs/levi_avatar_color.png) no-repeat center #DFE6E9; background-size: contain;}
+.levi:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/levi_avatar_color.png) no-repeat center #DFE6E9; background-size: contain;}
 
-.helena {background: url(../imgs/__helena_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
-.helena:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__helena_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.helena {background: url(../imgs/helena_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.helena:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/helena_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
 
-.julio {background: url(../imgs/__julio_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
-.julio:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__julio_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.julio {background: url(../imgs/julio_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.julio:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/julio_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
 
-.rafael {background: url(../imgs/__rafael_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
-.rafael:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__rafael_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.rafael {background: url(../imgs/rafael_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.rafael:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/rafael_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
 
-.reynaldo {background: url(../imgs/__reynaldo_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
-.reynaldo:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__reynaldo_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.reynaldo {background: url(../imgs/reynaldo_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.reynaldo:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/reynaldo_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
 
-.hm {background: url(../imgs/__hm_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
-.hm:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__hm_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+.hm {background: url(../imgs/hm_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+.hm:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/hm_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
 
 
