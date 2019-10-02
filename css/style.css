@@ -1,0 +1,257 @@
+body {
+	margin: 0px;
+height: 100%;
+background-color: #fff;
+}
+
+
+p
+{
+  font-family: Roboto, sansserif;
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000;
+}
+
+
+/*
+========================================
+  Navigation
+========================================
+*/
+
+.nav {
+ margin-left: auto; 
+}
+
+
+.nav li {
+  display: inline-block;
+  margin: 0px 10px;
+  padding-top: 10px;
+}
+	
+.logo {
+height: 50px;  
+width: 125px;
+}
+
+header img {float: left;}
+header nav {float: right;}
+
+header {
+	margin: 20px;
+	background-color: white;
+	display: block;
+	height: 50px;
+	}
+	
+/*
+========================================
+Conteúdo referente ao Quem somos!
+========================================
+*/
+
+#who {
+	background: url(../imgs/paty.png) left bottom  no-repeat, url(../imgs/dogmon.png) top right no-repeat, url(../imgs/doc.png) right bottom no-repeat, url(../imgs/doodles.png) repeat;
+	width: 100%;
+	height: auto;
+	padding-bottom: 10rem;
+}
+
+
+#arrow {
+	margin: 0 auto;
+	z-index: 1;
+	text-align: center;
+	height: auto;
+	}
+
+h3 {
+	font-family: 'Ruda', sans-serif;
+	width: 200px;
+	font-size: 24px;
+	margin-top: 30px;
+	padding: 20px 0;
+	border-bottom: 5px dashed #8BF4FB; 
+	border-top: 5px dashed #8BF4FB; 
+	}
+
+#who .card-title {font-family: 'Ruda', sans-serif; color: #6E4596; font-weight: 600; text-transform: uppercase;}
+
+#filme {
+	height: 181px;
+	width: 100%;
+	background: url(../imgs/filme.png) no-repeat;
+}
+
+/*
+=========================================
+Conteúdo referente ao Projetos
+=========================================
+*/
+
+#projetos, #time {width: 60%;}
+
+#projetos .card-columns .card, #time .card-columns .card {height: 300px; margin: 20px 35px;}
+
+#projetos .card-columns .card-title, #time .card-columns .card-title {
+	font-family: Ruda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	text-transform: uppercase;
+	line-height: 58px;
+	text-align: center;
+	color: #FFFFFF;
+	text-shadow: 0px 3px 4px rgba(0, 0, 0, 0.45);
+	margin-top: 3rem;
+}
+
+.card-text a, .card-text a:link, .card-text a:active, .card-text a:hover {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-size: 14px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-shadow: 0px 3px 4px rgba(0, 0, 0, 0.45);
+	text-decoration: none;
+}
+
+#projetos hr, #time hr {height: 0px; background: white; width: 7rem;}
+
+strong {
+	font-family: Ruda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 34px;
+	text-align: center;
+	background-color: #8BF4FB;
+	padding: 7px 18px;
+	margin: 3rem auto !important;
+}
+
+.eva {background: url(../imgs/_eva.png); background-size: cover;}
+.dogmons {background: url(../imgs/_dogmons.png); background-size: cover;}
+.geracaobill {background: url(../imgs/_geracaobill.png); background-size: cover;}
+.kadike {background: url(../imgs/_kadike.png); background-size: cover;}
+.festa {background: url(../imgs/_festa.png); background-size: cover;}
+.juca {background: url(../imgs/_juca.png); background-size: cover;}
+.light {background: url(../imgs/_light.png); background-size: cover;}
+.megapowers {background: url(../imgs/_megapowers.png); background-size: cover;}
+.pec {background: url(../imgs/_pec.png); background-size: cover;}
+.ph {background: url(../imgs/_ph.png); background-size: cover;}
+.plim {background: url(../imgs/_plim.jpg); background-size: cover;}
+
+
+/*========
+PARCERIAS
+========*/
+
+#parcerias {
+	background: rgba(0, 0, 0, 0.85);
+	width: 100%;
+	height: auto;
+	padding: 5rem 3rem 5rem 3rem;	
+}
+
+#parcerias b {
+	font-family: Ruda;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 102px;
+	/* identical to box height */
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#parcerias p {color: white;}
+
+#parceiros {width: 60%;}
+
+#parceiros .carousel-item { margin-right: auto !important; }
+
+
+
+/*==============
+CONTEÚDO REFERENTE AO CLIENTES
+===============*/
+
+#clientes {
+	background: url(../imgs/doodles.png) repeat;
+	width: 100%;
+	height: auto;
+	padding: 5rem 3rem 8rem 3rem;	
+}
+
+#clientes b {
+	font-family: Ruda;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 102px;
+	text-align: center;
+}
+
+#client {width: 60%;}
+
+#client img { width: 50%;}
+
+
+/*=====================
+EQUIPE
+===================*/
+
+#equipe {
+	background: #F7F7F7;
+	width: 100%;
+	height: auto;
+	padding: 5rem 3rem 5rem 3rem;	
+}
+
+#time a, #time a:link, #time a:visited, #time a:hover {
+	font-family: Ruda;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 34px;
+	text-align: center;
+	background-color: #8BF4FB;
+	padding: 7px 18px;
+	margin: 3rem auto !important;
+	color: black;
+	}
+
+#time .card p {color: white;}
+#time .card-block {visibility: hidden;}
+#time .card:hover .card-block {visibility: visible;}
+
+.thomas {background:url(../imgs/__thomas_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+.thomas:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__thomas_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+
+.patricia {background: url(../imgs/__patricia_avatar_vinyl.png) no-repeat center #DFE6E9; background-size: contain;}
+.patricia:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__patricia_avatar_vinyl.png) no-repeat center #DFE6E9; background-size: contain;}
+
+.levi {background: url(../imgs/__levi_avatar_color.png) no-repeat center #DFE6E9; background-size: contain;}
+.levi:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__levi_avatar_color.png) no-repeat center #DFE6E9; background-size: contain;}
+
+.helena {background: url(../imgs/__helena_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.helena:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__helena_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+
+.julio {background: url(../imgs/__julio_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.julio:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__julio_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+
+.rafael {background: url(../imgs/__rafael_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.rafael:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__rafael_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+
+.reynaldo {background: url(../imgs/__reynaldo_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+.reynaldo:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__reynaldo_vinyl_avatar.png) no-repeat center #DFE6E9; background-size: contain;}
+
+.hm {background: url(../imgs/__hm_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+.hm:hover {background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imgs/__hm_avatar_vinyl_plastic.png) no-repeat center #DFE6E9; background-size: contain;}
+
+
